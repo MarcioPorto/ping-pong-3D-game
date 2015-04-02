@@ -1,6 +1,7 @@
 /**
-Comp 394 S15 Assignment #2 Ping Pong 3D
-Charles Park and Marcio Porto
+	Comp 394-01 S15 
+	Assignment #2 Ping Pong 3D
+	Marcio Porto and Charles Park
 **/
 
 #include "App.h"

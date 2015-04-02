@@ -1,5 +1,7 @@
 /**
-    CSci-4611 Spring '14 Assignment #2 Pong 3D
+  Comp 394-01 S15 
+  Assignment #2 Ping Pong 3D
+  Marcio Porto and Charles Park
 **/
 
 #ifndef App_h
